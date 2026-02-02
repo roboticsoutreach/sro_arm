@@ -9,6 +9,8 @@ Features:
 
 ## Hardware
 
+Mechanical design is described [here](./cad/mech/README.md).
+
 Full system block diagram:
 
 ![Full system block diagram](./docs/full-system-diagram.svg)

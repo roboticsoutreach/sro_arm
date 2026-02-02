@@ -50,8 +50,6 @@
   - 3D print
   - single piece? that sits around the wiring through hole in the turntable
   - bolted pillow blocks for bearings(8mm inner, 19mm outer, 6mm depth)
-  - axel is smooth rod (d=8mm) that is fitted into both bearings (potentially with tolerance rings)
-    - if we have difficulty with this, it may not need to be a single continuous axel since rotational coupling should be achieved by the compression rods
 - gear
   - 3D print
   - mounts to major arm segment side panel
@@ -60,9 +58,12 @@
 ### Major arm segment
 - side panels
   - 50 mm square cross-section
+  - approx 243 mm length ?
   - compressed into diagonal spacers (see below) using nuts on threaded bolts
   - one side with homing slot for shoulder joint optical switch
   - other side with mount point for shoulder joint gear
+  - axel is smooth rod (d=8mm) that is fitted into both bearings (potentially with tolerance rings)
+    - clamped by gear on one side and ply cap on other, through holes in the side panels of the arm segment
 - diagonal spacers
   - slanted at 45deg - square projection in cross-section direction
 
@@ -71,7 +72,7 @@
 
 ### Minor arm segment
 - side panels
-  - TODO
+  - largely similar design to the major arm segment
 - TODO mount point for arm termination plate
 - TODO mount point for camera module?
 
